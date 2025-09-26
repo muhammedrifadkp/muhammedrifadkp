@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <style>
+    .background {
+      fill: url(#gradient);
+    }
+    
+    .name {
+      font-family: 'Arial', sans-serif;
+      font-weight: bold;
+      font-size: 36px;
+      fill: #ffffff;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    
+    .title {
+      font-family: 'Arial', sans-serif;
+      font-size: 18px;
+      fill: #64FFDA;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    
+    .code-symbol {
+      font-family: 'Courier New', monospace;
+      font-size: 24px;
+      fill: #FF6B6B;
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    
+    @keyframes pulse {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+    
+    .pulse {
+      animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    }
+    
+    .delay-1 { animation-delay: 0s; }
+    .delay-2 { animation-delay: 0.2s; }
+    .delay-3 { animation-delay: 0.4s; }
+    .delay-4 { animation-delay: 0.6s; }
+    .delay-5 { animation-delay: 0.8s; }
+    .delay-6 { animation-delay: 1.0s; }
+  </style>
+  
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F" />
+      <stop offset="50%" stop-color="#112240" />
+      <stop offset="100%" stop-color="#0A192F" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="200" class="background" />
+  
+  <!-- Animated name -->
+  <text x="400" y="90" class="name">
+    MUHAMMED RIFAD KP
+  </text>
+  
+  <!-- Animated title -->
+  <text x="400" y="130" class="title">
+    Full Stack Developer • MERN Stack Specialist
+  </text>
+  
+  <!-- Floating code symbols -->
+  <text x="100" y="50" class="code-symbol pulse delay-1">{ }</text>
+  <text x="150" y="150" class="code-symbol pulse delay-2">&lt;/&gt;</text>
+  <text x="650" y="60" class="code-symbol pulse delay-3">( )</text>
+  <text x="700" y="140" class="code-symbol pulse delay-4">[ ]</text>
+  <text x="250" y="40" class="code-symbol pulse delay-5">/* */</text>
+  <text x="550" y="160" class="code-symbol pulse delay-6">console.log();</text>
+</svg>

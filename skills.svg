@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <style>
+    .background {
+      fill: #0A192F;
+    }
+    
+    .skill-title {
+      font-family: 'Arial', sans-serif;
+      font-size: 14px;
+      fill: #CCD6F6;
+    }
+    
+    .skill-bar-bg {
+      fill: #112240;
+      rx: 5;
+      ry: 5;
+    }
+    
+    .skill-bar-fill {
+      rx: 5;
+      ry: 5;
+      animation: fillAnimation 2s ease-out forwards;
+    }
+    
+    @keyframes fillAnimation {
+      from { width: 0; }
+      to { width: var(--target-width); }
+    }
+    
+    .skill-percent {
+      font-family: 'Arial', sans-serif;
+      font-size: 12px;
+      fill: #64FFDA;
+    }
+    
+    /* Different colors for different skill categories */
+    .frontend { fill: #FF6B6B; }
+    .backend { fill: #4ECDC4; }
+    .database { fill: #FFE66D; }
+    .devops { fill: #6A0572; }
+    .tools { fill: #1A936F; }
+  </style>
+  
+  <rect width="800" height="300" class="background" />
+  
+  <!-- Skill 1: JavaScript -->
+  <text x="50" y="40" class="skill-title">JavaScript</text>
+  <rect x="150" y="30" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="30" height="15" class="skill-bar-fill frontend" style="--target-width: 270px;">
+    <animate attributeName="width" from="0" to="270" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="40" class="skill-percent">90%</text>
+  
+  <!-- Skill 2: React -->
+  <text x="50" y="70" class="skill-title">React</text>
+  <rect x="150" y="60" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="60" height="15" class="skill-bar-fill frontend" style="--target-width: 255px;">
+    <animate attributeName="width" from="0" to="255" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="70" class="skill-percent">85%</text>
+  
+  <!-- Skill 3: Node.js -->
+  <text x="50" y="100" class="skill-title">Node.js</text>
+  <rect x="150" y="90" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="90" height="15" class="skill-bar-fill backend" style="--target-width: 240px;">
+    <animate attributeName="width" from="0" to="240" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="100" class="skill-percent">80%</text>
+  
+  <!-- Skill 4: MongoDB -->
+  <text x="50" y="130" class="skill-title">MongoDB</text>
+  <rect x="150" y="120" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="120" height="15" class="skill-bar-fill database" style="--target-width: 225px;">
+    <animate attributeName="width" from="0" to="225" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="130" class="skill-percent">75%</text>
+  
+  <!-- Skill 5: Git -->
+  <text x="50" y="160" class="skill-title">Git</text>
+  <rect x="150" y="150" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="150" height="15" class="skill-bar-fill tools" style="--target-width: 270px;">
+    <animate attributeName="width" from="0" to="270" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="160" class="skill-percent">90%</text>
+  
+  <!-- Skill 6: Docker -->
+  <text x="50" y="190" class="skill-title">Docker</text>
+  <rect x="150" y="180" width="300" height="15" class="skill-bar-bg" />
+  <rect x="150" y="180" height="15" class="skill-bar-fill devops" style="--target-width: 180px;">
+    <animate attributeName="width" from="0" to="180" dur="2s" fill="freeze" />
+  </rect>
+  <text x="460" y="190" class="skill-percent">60%</text>
+</svg>

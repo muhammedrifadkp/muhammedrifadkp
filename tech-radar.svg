@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <style>
+    .background {
+      fill: #0A192F;
+    }
+    
+    .grid-line {
+      stroke: #112240;
+      stroke-width: 1;
+    }
+    
+    .grid-circle {
+      fill: none;
+      stroke: #112240;
+      stroke-width: 1;
+    }
+    
+    .tech-label {
+      font-family: 'Arial', sans-serif;
+      font-size: 10px;
+      fill: #CCD6F6;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    
+    .tech-dot {
+      r: 6;
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { r: 6; }
+      50% { r: 8; }
+      100% { r: 6; }
+    }
+    
+    .adopt { fill: #64FFDA; }
+    .trial { fill: #FFE66D; }
+    .assess { fill: #4ECDC4; }
+    .hold { fill: #FF6B6B; }
+  </style>
+  
+  <rect width="500" height="500" class="background" />
+  
+  <!-- Grid circles -->
+  <circle cx="250" cy="250" r="200" class="grid-circle" />
+  <circle cx="250" cy="250" r="150" class="grid-circle" />
+  <circle cx="250" cy="250" r="100" class="grid-circle" />
+  <circle cx="250" cy="250" r="50" class="grid-circle" />
+  
+  <!-- Grid lines -->
+  <line x1="250" y1="50" x2="250" y2="450" class="grid-line" />
+  <line x1="50" y1="250" x2="450" y2="250" class="grid-line" />
+  <line x1="109" y1="109" x2="391" y2="391" class="grid-line" />
+  <line x1="109" y1="391" x2="391" y2="109" class="grid-line" />
+  
+  <!-- Tech labels -->
+  <text x="250" y="30" class="tech-label">ADOPT</text>
+  <text x="250" y="80" class="tech-label">TRIAL</text>
+  <text x="250" y="130" class="tech-label">ASSESS</text>
+  <text x="250" y="180" class="tech-label">HOLD</text>
+  
+  <!-- Tech dots (animated) -->
+  <!-- Adopt technologies -->
+  <circle cx="250" cy="100" class="tech-dot adopt">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="250" y="100" class="tech-label" dy="20">React</text>
+  
+  <circle cx="300" cy="150" class="tech-dot adopt">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.2s" />
+  </circle>
+  <text x="300" y="150" class="tech-label" dy="20">Node.js</text>
+  
+  <circle cx="200" cy="150" class="tech-dot adopt">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.4s" />
+  </circle>
+  <text x="200" y="150" class="tech-label" dy="20">MongoDB</text>
+  
+  <!-- Trial technologies -->
+  <circle cx="250" cy="150" class="tech-dot trial">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.6s" />
+  </circle>
+  <text x="250" y="150" class="tech-label" dy="20">Next.js</text>
+  
+  <circle cx="320" cy="200" class="tech-dot trial">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.8s" />
+  </circle>
+  <text x="320" y="200" class="tech-label" dy="20">Docker</text>
+  
+  <!-- Assess technologies -->
+  <circle cx="250" cy="200" class="tech-dot assess">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1.0s" />
+  </circle>
+  <text x="250" y="200" class="tech-label" dy="20">GraphQL</text>
+  
+  <circle cx="180" cy="200" class="tech-dot assess">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1.2s" />
+  </circle>
+  <text x="180" y="200" class="tech-label" dy="20">TypeScript</text>
+  
+  <!-- Hold technologies -->
+  <circle cx="250" cy="250" class="tech-dot hold">
+    <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1.4s" />
+  </circle>
+  <text x="250" y="250" class="tech-label" dy="20">jQuery</text>
+  
+  <!-- Center label -->
+  <text x="250" y="250" class="tech-label" dy="-10">Muhammed Rifad KP</text>
+  <text x="250" y="250" class="tech-label" dy="5">Tech Radar</text>
+</svg>

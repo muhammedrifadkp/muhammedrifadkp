@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <style>
+    .background {
+      fill: #0A192F;
+    }
+    
+    .grid-line {
+      stroke: #112240;
+      stroke-width: 1;
+    }
+    
+    .activity-line {
+      fill: none;
+      stroke: #64FFDA;
+      stroke-width: 3;
+    }
+    
+    .activity-fill {
+      fill: url(#gradient);
+      opacity: 0.3;
+    }
+    
+    .activity-point {
+      fill: #64FFDA;
+      r: 4;
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { r: 4; opacity: 0.7; }
+      50% { r: 6; opacity: 1; }
+      100% { r: 4; opacity: 0.7; }
+    }
+    
+    .label {
+      font-family: 'Arial', sans-serif;
+      font-size: 12px;
+      fill: #CCD6F6;
+    }
+    
+    .month-label {
+      font-family: 'Arial', sans-serif;
+      font-size: 10px;
+      fill: #8892B0;
+    }
+  </style>
+  
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#64FFDA" />
+      <stop offset="100%" stop-color="#64FFDA" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="200" class="background" />
+  
+  <!-- Grid lines -->
+  <line x1="50" y1="30" x2="750" y2="30" class="grid-line" />
+  <line x1="50" y1="70" x2="750" y2="70" class="grid-line" />
+  <line x1="50" y1="110" x2="750" y2="110" class="grid-line" />
+  <line x1="50" y1="150" x2="750" y2="150" class="grid-line" />
+  
+  <!-- Month labels -->
+  <text x="50" y="180" class="month-label">Jan</text>
+  <text x="110" y="180" class="month-label">Feb</text>
+  <text x="170" y="180" class="month-label">Mar</text>
+  <text x="230" y="180" class="month-label">Apr</text>
+  <text x="290" y="180" class="month-label">May</text>
+  <text x="350" y="180" class="month-label">Jun</text>
+  <text x="410" y="180" class="month-label">Jul</text>
+  <text x="470" y="180" class="month-label">Aug</text>
+  <text x="530" y="180" class="month-label">Sep</text>
+  <text x="590" y="180" class="month-label">Oct</text>
+  <text x="650" y="180" class="month-label">Nov</text>
+  <text x="710" y="180" class="month-label">Dec</text>
+  
+  <!-- Activity line -->
+  <path class="activity-line" d="M50,150 
+                               C90,140 130,130 170,120 
+                               C210,110 250,100 290,90 
+                               C330,80 370,70 410,80 
+                               C450,90 490,100 530,90 
+                               C570,80 610,70 650,60 
+                               C690,50 730,60 750,70" />
+  
+  <!-- Activity fill -->
+  <path class="activity-fill" d="M50,150 
+                                C90,140 130,130 170,120 
+                                C210,110 250,100 290,90 
+                                C330,80 370,70 410,80 
+                                C450,90 490,100 530,90 
+                                C570,80 610,70 650,60 
+                                C690,50 730,60 750,70 
+                                L750,170 L50,170 Z" />
+  
+  <!-- Activity points -->
+  <circle cx="50" cy="150" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="0s" />
+  </circle>
+  <circle cx="170" cy="120" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="0.2s" />
+  </circle>
+  <circle cx="290" cy="90" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="0.4s" />
+  </circle>
+  <circle cx="410" cy="80" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="0.6s" />
+  </circle>
+  <circle cx="530" cy="90" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="0.8s" />
+  </circle>
+  <circle cx="650" cy="60" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="1.0s" />
+  </circle>
+  <circle cx="750" cy="70" class="activity-point">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" begin="1.2s" />
+  </circle>
+  
+  <!-- Labels -->
+  <text x="20" y="35" class="label">High</text>
+  <text x="20" y="155" class="label">Low</text>
+  <text x="400" y="20" class="label" text-anchor="middle">GitHub Activity</text>
+</svg>
