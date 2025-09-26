@@ -44,18 +44,18 @@ const muhammedRifad = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vercel,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vercel,figma,python,next,vite,c,cpp,java,bootstrap,tailwindcss&perline=8" />
 </div>
 
 ### 🎯 Skill Progression
 <div align="center">
-  <img src="skills.svg" width="800" height="300"/>
+  <img src="skills.svg" width="800" height="200"/>
 </div>
 
-### 📡 Technology Radar
+<!-- ### 📡 Technology Radar
 <div align="center">
   <img src="tech-radar.svg" width="500" height="500"/>
-</div>
+</div> -->
 
 ### 📊 GitHub Activity
 <div align="center">
@@ -115,7 +115,7 @@ Small backend services (auth, payment, etc.) using Express / Node.js.
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="muhammedrifadkp3.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
@@ -137,7 +137,7 @@ Small backend services (auth, payment, etc.) using Express / Node.js.
   <img src="https://github-profile-trophy.vercel.app/?username=muhammedrifadkp&theme=radical" />
 </div>
 
----
+<!-- ---
 
 ## 🎵 Spotify Playing
 
@@ -145,22 +145,22 @@ Small backend services (auth, payment, etc.) using Express / Node.js.
   <img src="https://novatorem.bgstatic.com/site/spotify/now-playing.svg" />
 </div>
 
----
+--- -->
 
-## 🚀 Visitor Count
+<!-- ## 🚀 Visitor Count
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muhammedrifadkp/count.svg" />
 </div>
-
----
+-->
+--- 
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 </div>
 
----
+<!-- ---
 
 <details>
 <summary>📊 Contribution Graph</summary>
@@ -176,7 +176,7 @@ Small backend services (auth, payment, etc.) using Express / Node.js.
 <div align="center">
   <img src="https://wakatime.com/share/@muhammedrifadkp/your-wakatime-stats.png" />
 </div>
-</details>
+</details> -->
 
 ---
 
