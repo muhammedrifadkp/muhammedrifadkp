@@ -57,10 +57,7 @@ const muhammedRifad = {
   <img src="techRadar.svg" width="500" height="500"/>
 </div> -->
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="activityGraph.svg" width="800" height="200"/>
-</div>
+
 
 | Area        | Technologies & Tools                         |
 |-------------|-----------------------------------------------|
@@ -94,6 +91,10 @@ Realtime chat application using sockets / WebSocket technology.
 Small backend services (auth, payment, etc.) using Express / Node.js.
 [Source Code](#)
 
+### 🎓 CDC Attendance System
+A comprehensive attendance management system for educational institutions.
+[Live Demo](#) | [Source Code](https://github.com/muhammedrifadkp/CDC_Attendance)
+
 ---
 
 ## 📈 GitHub Stats
@@ -115,7 +116,7 @@ Small backend services (auth, payment, etc.) using Express / Node.js.
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="muhammedrifadkp3.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
