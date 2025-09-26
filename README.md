@@ -83,6 +83,7 @@ My personal website showcasing my bio, projects, skills, and blog sections.
 
 ### 🛒 E-commerce App
 Full MERN stack store with user authentication, admin dashboard, product & order management.
+[Live Demo](https://my-ecommerce-black.vercel.app/) | 
 [Source Code](https://github.com/muhammedrifadkp/my-ecommerce)
 
 
