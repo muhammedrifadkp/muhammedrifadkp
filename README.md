@@ -68,6 +68,7 @@ const muhammedRifad = {
 | Tools       | Git, GitHub, npm, Axios, Postman, Figma       |
 
 ---
+<!-- updated latest links  -->
 
 ## 🌟 Featured Projects
 
@@ -77,23 +78,17 @@ const muhammedRifad = {
 
 ### 💼 Portfolio Website
 My personal website showcasing my bio, projects, skills, and blog sections.
-[Live Demo](https://muhammedrifad.vercel.app/) | [Source Code](#)
+[Live Demo](https://muhammedrifad.vercel.app/) | [Source Code](https://github.com/muhammedrifadkp/My-Portfolio)
+
 
 ### 🛒 E-commerce App
 Full MERN stack store with user authentication, admin dashboard, product & order management.
-[Source Code](#)
+[Source Code](https://github.com/muhammedrifadkp/my-ecommerce)
 
-### 💬 Chat App
-Realtime chat application using sockets / WebSocket technology.
-[Source Code](#)
-
-### 🧩 API Microservices
-Small backend services (auth, payment, etc.) using Express / Node.js.
-[Source Code](#)
 
 ### 🎓 CDC Attendance System
 A comprehensive attendance management system for educational institutions.
-[Live Demo](#) | [Source Code](https://github.com/muhammedrifadkp/CDC_Attendance)
+[Live Demo](https://cdc-attendance-com.vercel.app/) | [Source Code](https://github.com/muhammedrifadkp/CDC_Attendance)
 
 ---
 
