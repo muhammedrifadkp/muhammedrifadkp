@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" width="800" height="200"/>
+  <img src="myBanner.svg" width="800" height="200"/>
 </div>
 
 # 👋 Hello, I'm **Muhammed Rifad KP** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -49,17 +49,17 @@ const muhammedRifad = {
 
 ### 🎯 Skill Progression
 <div align="center">
-  <img src="skills.svg" width="800" height="200"/>
+  <img src="skillsimg.svg" width="800" height="200"/>
 </div>
 
 <!-- ### 📡 Technology Radar
 <div align="center">
-  <img src="tech-radar.svg" width="500" height="500"/>
+  <img src="techRadar.svg" width="500" height="500"/>
 </div> -->
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="activity-graph.svg" width="800" height="200"/>
+  <img src="activityGraph.svg" width="800" height="200"/>
 </div>
 
 | Area        | Technologies & Tools                         |
