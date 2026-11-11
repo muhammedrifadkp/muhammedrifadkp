@@ -1,180 +1,129 @@
 <div align="center">
-  <img src="myBanner.svg" width="800" height="200"/>
+  <img src="myBanner.svg" width="800" height="200" alt="Muhammed Rifad KP Banner" />
 </div>
 
-# 👋 Hello, I'm **Muhammed Rifad KP** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=muhammedrifadkp&color=brightgreen)](https://github.com/muhammedrifadkp)
-[![GitHub followers](https://img.shields.io/github/followers/muhammedrifadkp?style=social)](https://github.com/muhammedrifadkp)
-[![GitHub User's stars](https://img.shields.io/github/stars/muhammedrifadkp?style=social)](https://github.com/muhammedrifadkp)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+# 👋 Hi there, I'm [Muhammed Rifad KP](https://www.rifad.site)
+
+### **Full-Stack Web Developer & UI/UX Specialist**
+**Crafting High-Performance Web Apps, E-Commerce Platforms & Immersive 3D Experiences**
+
+📍 *Calicut, Kerala, India & Dubai, UAE*
+
+[![Website](https://img.shields.io/badge/Portfolio-rifad.site-00D26A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rifad.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-rifad-64a7172b9)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917356852496)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedrifadkp3@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammedrifadkp&color=00D26A&style=for-the-badge)](https://github.com/muhammedrifadkp)
+
 </div>
 
 ---
 
-## 🧩 About Me
+## ⚡ About Me
 
-I'm a **Full Stack Developer from Kerala, India**, passionate about turning ideas into digital experiences. I specialize in **MERN stack development**, but I also explore new tools and frameworks to stay ahead in modern web tech.
+I am a **Full-Stack Web Developer** and founder at **Pixel Conversions**, delivering bespoke digital experiences that convert visitors into revenue. Based in Kozhikode (Calicut), Kerala, I engineer robust web applications and digital stores for businesses and startups across **India** and the **UAE**.
 
-On my portfolio site, I share my journey, projects, and what I'm building next.  
-🌐 **Portfolio**: [muhammedrifad.vercel.app](https://muhammedrifad.vercel.app/)  
+- 🌐 **Official Portfolio**: **[https://www.rifad.site](https://www.rifad.site)**
+- 🚀 **Core Focus**: High-performance **Next.js** applications, **React 19 / Vite**, **Three.js** interactive 3D web graphics, **Tailwind CSS**, and scalable **Node.js** architectures.
+- 💼 **Available For**: Freelance contracts, enterprise consulting, custom web platforms, and e-commerce developments.
+- 💬 **Ask me about**: Performance optimization, SSR/SSG architectures, WebGL/Three.js shaders, Headless Shopify, and technical SEO.
 
 ```javascript
-const muhammedRifad = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Python", "PHP", "C++"],
-  askMeAbout: ["web dev", "tech", "anime", "coffee"],
-  technologies: {
-      frontend: ["React", "Next.js", "Vite", "Tailwind CSS"],
-      backend: ["Node.js", "Express", "REST APIs"],
-      databases: ["MongoDB", "MySQL"],
-      devOps: ["Docker", "GitHub Actions", "Vercel"],
-      tools: ["Git", "GitHub", "Figma", "Postman"]
+const rifad = {
+  name: "Muhammed Rifad KP",
+  role: "Full-Stack Web Developer",
+  location: "Calicut, Kerala, India",
+  portfolio: "https://www.rifad.site",
+  services: [
+    "Full-Stack Web Applications",
+    "Bespoke E-Commerce & Shopify Stores",
+    "Interactive 3D / WebGL Experiences",
+    "UI/UX Design Systems & Micro-Interactions"
+  ],
+  stack: {
+    frontend: ["Next.js", "React", "Three.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    devops: ["Docker", "Vercel", "GitHub Actions", "Cloudflare"]
   },
-  architecture: ["Serverless", "Progressive Web Apps", "SPA", "API First Design"],
-  currentFocus: "Building scalable web applications",
-  funFact: "There are two ways to write error-free programs; only the third one works"
+  funFact: "Clean code + 60fps animations = unforgettable user experience."
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vercel,figma,python,next,vite,c,cpp,java,bootstrap,tailwindcss&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,threejs,nodejs,express,mongodb,postgres,mysql,docker,git,github,vercel,figma&perline=9" alt="Tech Stack Icons" />
 </div>
 
-### 🎯 Skill Progression
-<div align="center">
-  <img src="skillsimg.svg" width="800" height="200"/>
-</div>
+<br/>
 
-<!-- ### 📡 Technology Radar
-<div align="center">
-  <img src="techRadar.svg" width="500" height="500"/>
-</div> -->
-
-
-
-| Area        | Technologies & Tools                         |
-|-------------|-----------------------------------------------|
-| Frontend    | React, Next.js, Vite, Tailwind CSS, HTML, CSS |
-| Backend     | Node.js, Express, REST APIs, Authentication   |
-| Database    | MongoDB, Mongoose, MySQL                      |
-| DevOps      | Docker, GitHub Actions, Vercel                |
-| Tools       | Git, GitHub, npm, Axios, Postman, Figma       |
-
----
-<!-- updated latest links  -->
-
-## 🌟 Featured Projects
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Frameworks** | React 19, Next.js 15 (App Router / SSR / SSG), Vite, Vue |
+| **Styling & 3D** | Tailwind CSS, Three.js, React Three Fiber (R3F), GSAP, Framer Motion |
+| **Backend & APIs** | Node.js, Express, RESTful APIs, JWT Auth, Webhooks |
+| **Databases** | MongoDB, Mongoose, PostgreSQL, MySQL, Redis |
+| **DevOps & Cloud** | Git, GitHub Actions, Docker, Vercel, Netlify, Cloudflare |
+| **Design & UI/UX** | Figma, Adobe Creative Cloud, Responsive Design, WCAG Accessibility |
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</div>
-
-### 💼 Portfolio Website
-My personal website showcasing my bio, projects, skills, and blog sections.
-[Live Demo](https://muhammedrifad.vercel.app/) | [Source Code](https://github.com/muhammedrifadkp/My-Portfolio)
-
-
-### 🛒 E-commerce App
-Full MERN stack store with user authentication, admin dashboard, product & order management.
-[Live Demo](https://my-ecommerce-black.vercel.app/) | 
-[Source Code](https://github.com/muhammedrifadkp/my-ecommerce)
-
-
-### 🎓 CDC Attendance System
-A comprehensive attendance management system for educational institutions.
-[Live Demo](https://cdc-attendance-com.vercel.app/) | [Source Code](https://github.com/muhammedrifadkp/CDC_Attendance)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrifadkp&show_icons=true&count_private=true&theme=radical" alt="Muhammed's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrifadkp&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrifadkp&theme=radical" alt="GitHub Streak" />
+  <img src="skillsimg.svg" width="800" alt="Skills Proficiency Graph" />
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🌟 Featured Client Works & Case Studies
+
+Each of these production platforms is documented with full metrics, architecture breakdowns, and live deployments on my portfolio:
+
+| Project | Description | Live & Case Study Links | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **Pixel Conversions** | High-growth digital agency selling custom Next.js builds, Shopify stores, and paid performance marketing. | [📖 Case Study](https://www.rifad.site/projects/pixel-conversions) • [🌐 Live Site](https://www.pixelconversions.com/) • [💻 GitHub](https://github.com/muhammedrifadkp/pixel-conversions) | Next.js, Tailwind, Shopify |
+| **ZHM Real Estate LLC** | Luxury real estate portal for prime Dubai properties, off-plan projects, and instant WhatsApp booking. | [📖 Case Study](https://www.rifad.site/projects/zhm-real-estate) • [🌐 Live Site](https://zhmrealestatellc.com/) | React, Vite, Tailwind CSS |
+| **Fixerland Services** | On-demand mobile device repair and parts replacement booking platform with multi-step diagnostics. | [📖 Case Study](https://www.rifad.site/projects/fixerland) • [🌐 Live Site](https://fixerland.com/) | React, Node.js, Express |
+| **AG Star Automobiles** | Premium pre-owned and multi-brand automotive showroom catalogue with live vehicle filtering. | [📖 Case Study](https://www.rifad.site/projects/ag-star) • [🌐 Live Site](https://agstarautomobiles.com/) | Next.js, Tailwind, REST API |
+| **AD Firms Setup** | Comprehensive UAE corporate services, business setup, and trade licensing platform in Dubai. | [📖 Case Study](https://www.rifad.site/projects/ad-firms) • [🌐 Live Site](https://adfirms.ae/) | React, Vite, Framer Motion |
+| **Midhula Farm Hub** | E-commerce storefront and live inventory catalog for exotic fish and aquatic plants in Kerala. | [📖 Case Study](https://www.rifad.site/projects/midhula-farm) • [🌐 Live Site](https://midhulafarmhub.com/) | MERN Stack, Razorpay |
+| **CDC Attendance System** | Complete attendance tracking and academic reporting management suite for institutions. | [📖 Case Study](https://www.rifad.site/projects/cdc-attendance) • [💻 GitHub](https://github.com/muhammedrifadkp/CDC_Attendance) | React, Node.js, MongoDB |
+| **MERN E-Commerce Store** | Full-featured online store with JWT authentication, cart state, admin inventory, and payments. | [📖 Case Study](https://www.rifad.site/projects/my-ecommerce) • [💻 GitHub](https://github.com/muhammedrifadkp/my-ecommerce) | React, Express, MongoDB, Redux |
+
+👉 **Explore all project breakdowns, tech stacks, and metrics at [https://www.rifad.site/projects](https://www.rifad.site/projects)**
+
+---
+
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://muhammedrifad.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrifadkp&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=00D26A&icon_color=00D26A" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrifadkp&layout=compact&theme=radical&hide_border=true&title_color=00D26A" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrifadkp&theme=radical&hide_border=true&stroke=00D26A&ring=00D26A&fire=00D26A" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedrifadkp&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📬 Let's Build Something Exceptional
+
+Whether you're starting a new venture from scratch, scaling an existing product, or want a high-converting web presence:
+
+- 🌐 **Portfolio & Case Studies**: [https://www.rifad.site](https://www.rifad.site)
+- 💬 **WhatsApp**: [+91 73568 52496](https://wa.me/917356852496)
+- 📧 **Email**: [muhammedrifadkp3@gmail.com](mailto:muhammedrifadkp3@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/muhammed-rifad-64a7172b9](https://linkedin.com/in/muhammed-rifad-64a7172b9)
+- 📸 **Instagram**: [@mohd_rifad_](https://www.instagram.com/mohd_rifad_/)
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedrifadkp&theme=radical" />
+  <em>"Turning bold ideas into smooth, high-impact digital realities."</em>
+  <br/>
+  <b>© 2026 Muhammed Rifad KP • <a href="https://www.rifad.site">rifad.site</a></b>
 </div>
-
-<!-- ---
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://novatorem.bgstatic.com/site/spotify/now-playing.svg" />
-</div>
-
---- -->
-
-<!-- ## 🚀 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muhammedrifadkp/count.svg" />
-</div>
--->
---- 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-</div>
-
-<!-- ---
-
-<details>
-<summary>📊 Contribution Graph</summary>
-<br>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muhammedrifadkp&theme=redical" />
-</div>
-</details>
-
-<details>
-<summary>💻 Coding Activity</summary>
-<br>
-<div align="center">
-  <img src="https://wakatime.com/share/@muhammedrifadkp/your-wakatime-stats.png" />
-</div>
-</details> -->
-
----
-
-📌 *Code is poetry, and I write verses.* 🖋️
