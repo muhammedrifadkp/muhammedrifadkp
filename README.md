@@ -195,6 +195,12 @@ Whether you're starting a new venture from scratch, scaling an existing product,
 - 💼 **LinkedIn**: [linkedin.com/in/muhammed-rifad-64a7172b9](https://linkedin.com/in/muhammed-rifad-64a7172b9)
 - 📸 **Instagram**: [@mohd_rifad_](https://www.instagram.com/mohd_rifad_/)
 
+<div align="center">
+  <a href="https://www.rifad.site"><img src="https://img.shields.io/badge/Visit_Portfolio-00D26A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" /></a>
+  <a href="https://wa.me/917356852496"><img src="https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
+  <a href="mailto:muhammedrifadkp3@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" /></a>
+</div>
+
 <br/>
 
 <div align="center">
