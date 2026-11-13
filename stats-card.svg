@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 110" width="800" height="110">
+  <rect width="800" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">
+    <text x="133" y="48" font-size="26" font-weight="800" fill="#00D26A">25+</text>
+    <text x="133" y="76" font-size="13" fill="#8b949e">Production Projects</text>
+    <line x1="266" y1="24" x2="266" y2="86" stroke="#30363d" stroke-width="1"/>
+    <text x="400" y="48" font-size="26" font-weight="800" fill="#00D26A">99+</text>
+    <text x="400" y="76" font-size="13" fill="#8b949e">Lighthouse Performance</text>
+    <line x1="533" y1="24" x2="533" y2="86" stroke="#30363d" stroke-width="1"/>
+    <text x="666" y="48" font-size="26" font-weight="800" fill="#00D26A">2 Regions</text>
+    <text x="666" y="76" font-size="13" fill="#8b949e">India &amp; UAE Clients</text>
+  </g>
+</svg>
