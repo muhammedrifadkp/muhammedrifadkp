@@ -122,6 +122,8 @@ const rifad = {
 
 <div align="center">
   <img src="skillsimg.svg" width="800" alt="Skills Proficiency Graph" />
+  <br/><br/>
+  <img src="techRadar.svg" width="800" alt="Technology Radar" />
 </div>
 
 ---
