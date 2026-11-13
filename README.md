@@ -68,6 +68,10 @@ const rifad = {
 };
 ```
 
+<div align="center">
+  <img src="terminal-card.svg" width="800" alt="Terminal Card" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
