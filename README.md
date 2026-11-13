@@ -137,6 +137,12 @@ const rifad = {
 - **Motion with Purpose**: GPU-accelerated **60fps** transitions using Framer Motion, GSAP, and Three.js shaders.
 - **SEO & Conversion Ready**: Semantic HTML5, structured JSON-LD metadata, and conversion-focused UX flows.
 
+### 🔄 Engineering Workflow
+
+```
+Discover & Wireframe  ──▶  Design System (Figma)  ──▶  Full-Stack Build (Next.js / Node)  ──▶  60fps Polish & Edge Deploy
+```
+
 ---
 
 ## 🌟 Featured Client Works & Case Studies
