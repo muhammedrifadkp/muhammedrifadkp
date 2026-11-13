@@ -21,10 +21,11 @@ jobs:
           git config user.name "muhammedrifadkp"
           git config user.email "muhammedrifadkp3@gmail.com"
           DATE=$(TZ="Asia/Kolkata" date "+%Y-%m-%d %H:%M:%S IST")
-          for i in $(seq 1 12); do
-            echo "{\"last_updated\": \"$DATE\", \"cycle\": $i}" > daily-status.json
+          COUNT=$((RANDOM % 16 + 10))
+          for i in $(seq 1 $COUNT); do
+            echo "{\"last_updated\": \"$DATE\", \"cycle\": $i, \"total\": $COUNT}" > daily-status.json
             git add daily-status.json
-            git commit -m "chore: daily profile status refresh ($i/12)"
+            git commit -m "chore: daily profile status refresh ($i/$COUNT)"
           done
           git push
 
