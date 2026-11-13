@@ -72,6 +72,35 @@ const rifad = {
   <img src="terminal-card.svg" width="800" alt="Terminal Card" />
 </div>
 
+<div align="center">
+  <img src="wave-divider.svg" width="100%" alt="Animated Wave Divider" />
+</div>
+
+## 🚀 Services & Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Web Apps</h3>
+      <p>End-to-end <b>Next.js 15</b> &amp; <b>React 19</b> applications with SSR/SSG, clean REST/GraphQL APIs, and scalable cloud deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 E-Commerce &amp; Shopify</h3>
+      <p>High-converting <b>Headless Shopify</b> &amp; custom MERN storefronts engineered for speed, SEO, and seamless checkout flows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 3D &amp; Interactive WebGL</h3>
+      <p>Immersive <b>Three.js</b> &amp; <b>React Three Fiber</b> experiences with custom shaders, smooth 60fps GSAP/Framer Motion animations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 UI/UX Design Systems</h3>
+      <p>Pixel-perfect, WCAG-accessible component libraries in <b>Figma</b> &amp; <b>Tailwind CSS</b> with micro-interactions that delight users.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
