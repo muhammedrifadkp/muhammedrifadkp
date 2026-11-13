@@ -168,6 +168,8 @@ Each of these production platforms is documented with full metrics, architecture
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrifadkp&theme=radical&hide_border=true&stroke=00D26A&ring=00D26A&fire=00D26A" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=muhammedrifadkp&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="activityGraph.svg" width="800" alt="GitHub Activity Graph" />
 </div>
 
 ---
