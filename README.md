@@ -181,7 +181,9 @@ Each of these production platforms is documented with full metrics, architecture
   <img src="activityGraph.svg" width="800" alt="GitHub Activity Graph" />
 </div>
 
----
+<div align="center">
+  <img src="wave-divider.svg" width="100%" alt="Animated Wave Divider" />
+</div>
 
 ## 📬 Let's Build Something Exceptional
 
