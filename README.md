@@ -1,5 +1,7 @@
 <div align="center">
   <img src="myBanner.svg" width="800" height="200" alt="Muhammed Rifad KP Banner" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+%26+UI%2FUX+Specialist;Next.js+%E2%80%A2+React+19+%E2%80%A2+Three.js+%E2%80%A2+Node.js;Founder+at+Pixel+Conversions+%E2%80%A2+India+%26+UAE" alt="Typing SVG" />
 </div>
 
 <div align="center">
