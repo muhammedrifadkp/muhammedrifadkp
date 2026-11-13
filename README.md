@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-rifad-64a7172b9)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917356852496)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedrifadkp3@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohd_rifad_/)
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammedrifadkp&color=00D26A&style=for-the-badge)](https://github.com/muhammedrifadkp)
 
 <br/><br/>
