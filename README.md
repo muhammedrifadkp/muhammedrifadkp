@@ -25,7 +25,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="wave-divider.svg" width="100%" alt="Animated Wave Divider" />
+</div>
 
 ## ⚡ About Me
 
