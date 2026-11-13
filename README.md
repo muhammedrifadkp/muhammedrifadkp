@@ -188,6 +188,13 @@ Whether you're starting a new venture from scratch, scaling an existing product,
 
 <div align="center">
   <em>"Turning bold ideas into smooth, high-impact digital realities."</em>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="footer-wave.svg" width="100%" alt="Animated Footer Wave" />
+</div>
   <br/>
   <b>© 2026 Muhammed Rifad KP • <a href="https://www.rifad.site">rifad.site</a></b>
 </div>
