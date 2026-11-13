@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-[⚡ About](#-about-me) • [🛠️ Tech Stack](#️-tech-stack--skills) • [🌟 Projects](#-featured-client-works--case-studies) • [📊 Analytics](#-github-analytics--activity) • [📬 Connect](#-lets-build-something-exceptional)
+[⚡ About](#-about-me) • [🚀 Services](#-services--capabilities) • [🛠️ Tech Stack](#️-tech-stack--skills) • [🌟 Projects](#-featured-client-works--case-studies) • [📊 Analytics](#-github-analytics--activity) • [📬 Connect](#-lets-build-something-exceptional)
 
 </div>
 
