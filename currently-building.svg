@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <rect width="800" height="100" rx="12" fill="#0d1117" stroke="#00D26A" stroke-width="1.5" stroke-opacity="0.6"/>
+  <circle cx="36" cy="50" r="7" fill="#00D26A">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="36" cy="50" r="12" fill="none" stroke="#00D26A" stroke-width="1.5">
+    <animate attributeName="r" values="7;16;7" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="64" y="42" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="700" fill="#00D26A" letter-spacing="1">CURRENTLY BUILDING</text>
+  <text x="64" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="500" fill="#e6edf3">High-converting Next.js platforms, 3D WebGL experiences &amp; Headless Shopify stores</text>
+</svg>
