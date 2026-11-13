@@ -19,6 +19,10 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedrifadkp3@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammedrifadkp&color=00D26A&style=for-the-badge)](https://github.com/muhammedrifadkp)
 
+<br/><br/>
+
+[⚡ About](#-about-me) • [🛠️ Tech Stack](#️-tech-stack--skills) • [🌟 Projects](#-featured-client-works--case-studies) • [📊 Analytics](#-github-analytics--activity) • [📬 Connect](#-lets-build-something-exceptional)
+
 </div>
 
 ---
