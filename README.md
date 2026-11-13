@@ -170,13 +170,14 @@ Each of these production platforms is documented with full metrics, architecture
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedrifadkp&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=00D26A&icon_color=00D26A" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedrifadkp&theme=radical" alt="GitHub Profile Details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrifadkp&layout=compact&theme=radical&hide_border=true&title_color=00D26A" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedrifadkp&theme=radical&hide_border=true&stroke=00D26A&ring=00D26A&fire=00D26A" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammedrifadkp&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedrifadkp&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedrifadkp&theme=radical" alt="Most Commit Language" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=muhammedrifadkp&theme=radical&hide_border=true&stroke=00D26A&ring=00D26A&fire=00D26A&cache_seconds=1800" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedrifadkp&bg_color=0d1117&color=00D26A&line=00D26A&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
   <br/><br/>
   <img src="activityGraph.svg" width="800" alt="GitHub Activity Graph" />
 </div>
