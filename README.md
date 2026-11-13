@@ -126,6 +126,17 @@ const rifad = {
   <img src="techRadar.svg" width="800" alt="Technology Radar" />
 </div>
 
+<div align="center">
+  <img src="wave-divider.svg" width="100%" alt="Animated Wave Divider" />
+</div>
+
+## ⚡ Architecture & Performance Philosophy
+
+- **Core Web Vitals First**: Every build targets **99+ Lighthouse** scores with zero layout shift (CLS), optimized LCP, and edge caching.
+- **Modular & Type-Safe**: Strict **TypeScript** contracts, reusable design tokens, and clean separation of concerns.
+- **Motion with Purpose**: GPU-accelerated **60fps** transitions using Framer Motion, GSAP, and Three.js shaders.
+- **SEO & Conversion Ready**: Semantic HTML5, structured JSON-LD metadata, and conversion-focused UX flows.
+
 ---
 
 ## 🌟 Featured Client Works & Case Studies
