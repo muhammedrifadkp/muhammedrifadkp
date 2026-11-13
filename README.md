@@ -31,6 +31,14 @@
 
 ## ⚡ About Me
 
+<div align="center">
+  <img src="currently-building.svg" width="800" alt="Currently Building" />
+  <br/>
+  <img src="stats-card.svg" width="800" alt="Developer Highlights" />
+</div>
+
+<br/>
+
 I am a **Full-Stack Web Developer** and founder at **Pixel Conversions**, delivering bespoke digital experiences that convert visitors into revenue. Based in Kozhikode (Calicut), Kerala, I engineer robust web applications and digital stores for businesses and startups across **India** and the **UAE**.
 
 - 🌐 **Official Portfolio**: **[https://www.rifad.site](https://www.rifad.site)**
