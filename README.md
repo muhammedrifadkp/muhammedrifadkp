@@ -163,7 +163,9 @@ Each of these production platforms is documented with full metrics, architecture
 
 👉 **Explore all project breakdowns, tech stacks, and metrics at [https://www.rifad.site/projects](https://www.rifad.site/projects)**
 
----
+<div align="center">
+  <img src="wave-divider.svg" width="100%" alt="Animated Wave Divider" />
+</div>
 
 ## 📊 GitHub Analytics & Activity
 
