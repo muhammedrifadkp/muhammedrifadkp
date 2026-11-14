@@ -2,8 +2,8 @@ name: Daily Profile Refresh
 
 on:
   schedule:
-    # Runs daily at 17:30 UTC (11:00 PM IST)
-    - cron: '30 17 * * *'
+    # Runs daily at 15:00 UTC (8:30 PM IST)
+    - cron: '0 15 * * *'
   workflow_dispatch:
 
 permissions:
