@@ -21,11 +21,12 @@ jobs:
           git config user.name "muhammedrifadkp"
           git config user.email "muhammedrifadkp3@gmail.com"
           DATE=$(TZ="Asia/Kolkata" date "+%Y-%m-%d %H:%M:%S IST")
-          COUNT=$((RANDOM % 16 + 10))
-          for i in $(seq 1 $COUNT); do
+          COUNT=$(shuf -i 10-25 -n 1)
+          for i in $(seq 1 "$COUNT"); do
             echo "{\"last_updated\": \"$DATE\", \"cycle\": $i, \"total\": $COUNT}" > daily-status.json
             git add daily-status.json
             git commit -m "chore: daily profile status refresh ($i/$COUNT)"
           done
-          git push
+          git pull --rebase origin main
+          git push origin main
 
